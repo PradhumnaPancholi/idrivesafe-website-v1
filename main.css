@@ -2745,7 +2745,7 @@ textarea.w-select {
 }
 
 .paragraph-7 {
-	padding-top: 10px;
+	padding-top: 18px !important;
 	font-family: Roboto, sans-serif;
 }
 
@@ -2797,7 +2797,7 @@ textarea.w-select {
 
 .about_us_2,
 .about_us_3 {
-	margin-top: 30px;
+	margin-top: 50px;
 	margin-left: 50px;
 	margin-right: 50px;
 }
@@ -2889,6 +2889,11 @@ textarea.w-select {
 	background-color: #bfb5b1;
 }
 
+.blog_1 {
+	margin-left: 0%;
+	text-align: center;
+}
+
 .footer {
 	height: 50px;
 	width: 100%;
@@ -2896,7 +2901,7 @@ textarea.w-select {
 }
 
 .container-5 {
-	max-width: 85vw;
+	max-width: 95vw;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
@@ -2973,7 +2978,7 @@ textarea.w-select {
 	text-align: center;
 	margin-top: 10px;
 	margin-bottom: 20px;
-	margin-left: 100px;
+	/* margin-left: 100px; */
 	padding: 15px 20px;
 	font-family: Roboto, sans-serif;
 	font-size: 16px;
@@ -2992,7 +2997,7 @@ textarea.w-select {
 .button-19 {
 	margin-top: 10px;
 	margin-bottom: 20px;
-	margin-left: 100px;
+	/* margin-left: 100px; */
 	padding: 15px 20px;
 	font-family: Roboto, sans-serif;
 	font-size: 16px;
@@ -3006,7 +3011,7 @@ textarea.w-select {
 .button-20 {
 	margin-top: 10px;
 	margin-bottom: 20px;
-	margin-left: 100px;
+	/* margin-left: 100px; */
 	padding: 15px 20px;
 	font-family: Roboto, sans-serif;
 	font-size: 16px;
